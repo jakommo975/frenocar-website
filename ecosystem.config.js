@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "frenocar-website",
-      script: "node_modules/.bin/next",
+      script: "pnpm",
       args: "start",
       cwd: __dirname,
       instances: 1,
