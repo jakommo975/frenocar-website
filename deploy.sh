@@ -10,10 +10,10 @@ echo "==> Pulling latest changes..."
 git pull
 
 echo "==> Installing dependencies..."
-npm ci
+pnpm install --frozen-lockfile
 
 echo "==> Building Next.js app..."
-npm run build
+pnpm build
 
 if pm2 describe "$APP_NAME" > /dev/null 2>&1; then
   echo "==> Reloading $APP_NAME (zero-downtime)..."
