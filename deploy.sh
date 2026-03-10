@@ -2,7 +2,6 @@
 set -euo pipefail
 
 APP_NAME="frenocar-website"
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 cd "$SCRIPT_DIR"
 
