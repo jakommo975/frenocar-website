@@ -3,8 +3,6 @@ set -euo pipefail
 
 APP_NAME="frenocar-website"
 
-cd "$SCRIPT_DIR"
-
 echo "==> Pulling latest changes..."
 git pull
 
