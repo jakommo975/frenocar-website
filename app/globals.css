@@ -1,26 +1,59 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Brand Colors — from design manual */
+  --color-brand-blue: #294C66;
+  --color-brand-red: #990027;
+  --color-brand-gray: #DCE4EA;
+  --color-brand-dark: #0C2E3E;
+  --color-brand-white: #FFFFFF;
+
+  /* Semantic color aliases */
+  --color-primary: #294C66;
+  --color-secondary: #990027;
+  --color-tertiary: #DCE4EA;
+  --color-background: #FFFFFF;
+  --color-foreground: #294C66;
+
+  /* Fonts — Roboto Serif for headings, Roboto for body */
+  --font-heading: var(--font-roboto-serif);
+  --font-body: var(--font-roboto);
+
+  /* Brand radius — signature heavily rounded corners */
+  --radius-brand-sm: 0.75rem;
+  --radius-brand: 1.5rem;
+  --radius-brand-lg: 2.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/*
+ * Brand card shape — mirrors the logo bracket shape:
+ * top-left rounded, top-right sharp, bottom-right rounded, bottom-left sharp.
+ * This is the "štvorec ako brand kód" from the design manual.
+ * CSS border-radius order: top-left | top-right | bottom-right | bottom-left
+ */
+.rounded-brand-card {
+  border-radius: var(--radius-brand-lg) 0 var(--radius-brand-lg) 0;
+}
+
+.rounded-brand-card-alt {
+  border-radius: 0 var(--radius-brand-lg) 0 var(--radius-brand-lg);
+}
+
+.rounded-brand-card-sm {
+  border-radius: var(--radius-brand-sm) 0 var(--radius-brand-sm) 0;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body), sans-serif;
+  color: var(--color-foreground);
+  background: var(--color-background);
+}
+
+/* Brand gradient utility */
+.bg-brand-gradient {
+  background: linear-gradient(135deg, var(--color-brand-blue) 0%, var(--color-brand-dark) 100%);
 }
