@@ -12,14 +12,14 @@ export async function generateMetadata({
     params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
     const { locale } = await params;
-    const t = await getTranslations({ locale, namespace: 'frenofulx' });
+    const t = await getTranslations({ locale, namespace: 'frenoflux' });
     return {
         title: t('metaTitle'),
         description: t('metaDescription')
     };
 }
 
-export default async function FrenoFulxPage({
+export default async function FrenoFluxPage({
     params
 }: {
     params: Promise<{ locale: string }>;
@@ -27,11 +27,11 @@ export default async function FrenoFulxPage({
     const { locale } = await params;
     setRequestLocale(locale);
 
-    return <FrenoFulxContent />;
+    return <FrenoFluxContent />;
 }
 
-function FrenoFulxContent() {
-    const t = useTranslations('frenofulx');
+function FrenoFluxContent() {
+    const t = useTranslations('frenoflux');
 
     return (
         <>

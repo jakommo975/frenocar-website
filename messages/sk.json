@@ -7,14 +7,14 @@
     "trecieMaterialy": "Trecie materiály",
     "nahradneDiely": "Výroba náhradných dielov",
     "kovovyroba": "Kovovýroba",
-    "frenofulx": "FrenoFulx",
+    "frenoflux": "FrenoFlux",
     "kontakt": "Kontakt",
     "openMenu": "Otvoriť menu",
     "closeMenu": "Zavrieť menu"
   },
   "home": {
     "heroTitle": "Výroba a renovácia trecích materiálov",
-    "heroDescription": "Rodinná firma na slovenskom trhu od roku 1996. Brzdové a spojkové materiály, výroba náhradných dielov, CNC kovovýroba a vlastný elektromotor FrenoFulx.",
+    "heroDescription": "Rodinná firma na slovenskom trhu od roku 1996. Brzdové a spojkové materiály, výroba náhradných dielov, CNC kovovýroba a vlastný elektromotor FrenoFlux.",
     "ctaContact": "Kontaktujte nás",
     "ctaServices": "Naše služby",
     "heroImageAlt": "Spojkový materiál vyrobený firmou Frenocar",
@@ -31,10 +31,10 @@
     "metalTitle": "Kovovýroba",
     "metalDescription": "CNC obrábanie, plazmové rezanie, výroba nástrojov a prášková metalurgia.",
     "metalImageAlt": "CNC frézovanie - kovovýroba Frenocar",
-    "frenofulxTitle": "FrenoFulx",
-    "frenofulxDescription": "Elektromotor s axiálnym tokom navrhnutý a vyrábaný vo vlastnej réžii. Kompaktný, účinný, kvalitné inžinierstvo.",
+    "frenofluxTitle": "FrenoFlux",
+    "frenofluxDescription": "Elektromotor s axiálnym tokom navrhnutý a vyrábaný vo vlastnej réžii. Kompaktný, účinný, kvalitné inžinierstvo.",
     "aboutTitle": "O firme Frenocar",
-    "aboutP1": "Rodinná firma Frenocar pôsobí na slovenskom trhu už od roku 1996. Vznikla ako reakcia na absenciu producenta brzdových materiálov v našej krajine. Postupne sme rozšírili činnosť na CNC obrábanie, výrobu nástrojov, práškovú metalurgiu a vývoj vlastného elektromotora FrenoFulx.",
+    "aboutP1": "Rodinná firma Frenocar pôsobí na slovenskom trhu už od roku 1996. Vznikla ako reakcia na absenciu producenta brzdových materiálov v našej krajine. Postupne sme rozšírili činnosť na CNC obrábanie, výrobu nástrojov, práškovú metalurgiu a vývoj vlastného elektromotora FrenoFlux.",
     "aboutP2": "Našim cieľom je ponúknuť kvalitný výrobok za výhodné ceny, sledovať potreby zákazníka a udržiavať dobré obchodné vzťahy."
   },
   "footer": {
@@ -140,7 +140,7 @@
     "ctaTitle": "Potrebujete kovovýrobu na mieru?",
     "ctaDescription": "Od kusovej výroby po malé série. CNC obrábanie, plazmové rezanie, výroba nástrojov — kontaktujte nás s vašou požiadavkou."
   },
-  "frenofulx": {
+  "frenoflux": {
     "metaTitle": "FrenoFlux – Axiálny elektromotor",
     "metaDescription": "FrenoFlux — elektromotor s axiálnym tokom navrhnutý a vyrábaný firmou Frenocar. Kompaktný, účinný, kvalitné inžinierstvo.",
     "heroTitle": "FrenoFlux",

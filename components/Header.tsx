@@ -10,7 +10,7 @@ const navHrefs = [
     '/trecie-materialy',
     '/nahradne-diely',
     '/kovovyroba',
-    '/frenofulx',
+    '/frenoflux',
     '/kontakt',
 ] as const;
 
@@ -18,7 +18,7 @@ const navKeys = [
     'trecieMaterialy',
     'nahradneDiely',
     'kovovyroba',
-    'frenofulx',
+    'frenoflux',
     'kontakt',
 ] as const;
 

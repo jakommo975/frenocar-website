@@ -7,14 +7,14 @@
     "trecieMaterialy": "Reibungsmaterialien",
     "nahradneDiely": "Ersatzteilherstellung",
     "kovovyroba": "Metallbearbeitung",
-    "frenofulx": "FrenoFulx",
+    "frenoflux": "FrenoFlux",
     "kontakt": "Kontakt",
     "openMenu": "Menü öffnen",
     "closeMenu": "Menü schließen"
   },
   "home": {
     "heroTitle": "Herstellung und Renovierung von Reibungsmaterialien",
-    "heroDescription": "Ein Familienunternehmen auf dem slowakischen Markt seit 1996. Brems- und Kupplungsmaterialien, Ersatzteilherstellung, CNC-Metallbearbeitung und der eigene Elektromotor FrenoFulx.",
+    "heroDescription": "Ein Familienunternehmen auf dem slowakischen Markt seit 1996. Brems- und Kupplungsmaterialien, Ersatzteilherstellung, CNC-Metallbearbeitung und der eigene Elektromotor FrenoFlux.",
     "ctaContact": "Kontaktieren Sie uns",
     "ctaServices": "Unsere Leistungen",
     "heroImageAlt": "Von Frenocar hergestelltes Kupplungsmaterial",
@@ -31,10 +31,10 @@
     "metalTitle": "Metallbearbeitung",
     "metalDescription": "CNC-Bearbeitung, Plasmaschneiden, Werkzeugherstellung und Pulvermetallurgie.",
     "metalImageAlt": "CNC-Fräsen - Metallbearbeitung Frenocar",
-    "frenofulxTitle": "FrenoFulx",
-    "frenofulxDescription": "Axialfluss-Elektromotor, der in Eigenregie entworfen und hergestellt wird. Kompakt, effizient, hochwertige Ingenieursarbeit.",
+    "frenofluxTitle": "FrenoFlux",
+    "frenofluxDescription": "Axialfluss-Elektromotor, der in Eigenregie entworfen und hergestellt wird. Kompakt, effizient, hochwertige Ingenieursarbeit.",
     "aboutTitle": "Über Frenocar",
-    "aboutP1": "Das Familienunternehmen Frenocar ist seit 1996 auf dem slowakischen Markt tätig. Es wurde als Reaktion auf das Fehlen eines Bremsmaterialherstellers in unserem Land gegründet. Schrittweise haben wir unsere Tätigkeit auf CNC-Bearbeitung, Werkzeugherstellung, Pulvermetallurgie und die Entwicklung unseres eigenen FrenoFulx-Elektromotors ausgeweitet.",
+    "aboutP1": "Das Familienunternehmen Frenocar ist seit 1996 auf dem slowakischen Markt tätig. Es wurde als Reaktion auf das Fehlen eines Bremsmaterialherstellers in unserem Land gegründet. Schrittweise haben wir unsere Tätigkeit auf CNC-Bearbeitung, Werkzeugherstellung, Pulvermetallurgie und die Entwicklung unseres eigenen FrenoFlux-Elektromotors ausgeweitet.",
     "aboutP2": "Unser Ziel ist es, qualitativ hochwertige Produkte zu günstigen Preisen anzubieten, die Bedürfnisse der Kunden zu verfolgen und gute Geschäftsbeziehungen zu pflegen."
   },
   "footer": {
@@ -140,7 +140,7 @@
     "ctaTitle": "Benötigen Sie Metallbearbeitung nach Maß?",
     "ctaDescription": "Von der Einzelfertigung bis zur Kleinserie. CNC-Bearbeitung, Plasmaschneiden, Werkzeugherstellung — kontaktieren Sie uns mit Ihrer Anfrage."
   },
-  "frenofulx": {
+  "frenoflux": {
     "metaTitle": "FrenoFlux – Axialfluss-Elektromotor",
     "metaDescription": "FrenoFlux — Axialfluss-Elektromotor, entworfen und hergestellt von Frenocar. Kompakt, effizient, hochwertige Ingenieursarbeit.",
     "heroTitle": "FrenoFlux",

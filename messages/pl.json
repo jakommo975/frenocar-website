@@ -7,14 +7,14 @@
     "trecieMaterialy": "Materiały cierne",
     "nahradneDiely": "Produkcja części zamiennych",
     "kovovyroba": "Obróbka metali",
-    "frenofulx": "FrenoFulx",
+    "frenoflux": "FrenoFlux",
     "kontakt": "Kontakt",
     "openMenu": "Otwórz menu",
     "closeMenu": "Zamknij menu"
   },
   "home": {
     "heroTitle": "Produkcja i renowacja materiałów ciernych",
-    "heroDescription": "Firma rodzinna na rynku słowackim od 1996 roku. Materiały hamulcowe i sprzęgłowe, produkcja części zamiennych, obróbka CNC i własny silnik elektryczny FrenoFulx.",
+    "heroDescription": "Firma rodzinna na rynku słowackim od 1996 roku. Materiały hamulcowe i sprzęgłowe, produkcja części zamiennych, obróbka CNC i własny silnik elektryczny FrenoFlux.",
     "ctaContact": "Skontaktuj się z nami",
     "ctaServices": "Nasze usługi",
     "heroImageAlt": "Materiał sprzęgłowy wyprodukowany przez Frenocar",
@@ -31,10 +31,10 @@
     "metalTitle": "Obróbka metali",
     "metalDescription": "Obróbka CNC, cięcie plazmowe, produkcja narzędzi i metalurgia proszkowa.",
     "metalImageAlt": "Frezowanie CNC - obróbka metali Frenocar",
-    "frenofulxTitle": "FrenoFulx",
-    "frenofulxDescription": "Silnik elektryczny o strumieniu osiowym zaprojektowany i produkowany we własnym zakresie. Kompaktowy, wydajny, wysokiej jakości inżynieria.",
+    "frenofluxTitle": "FrenoFlux",
+    "frenofluxDescription": "Silnik elektryczny o strumieniu osiowym zaprojektowany i produkowany we własnym zakresie. Kompaktowy, wydajny, wysokiej jakości inżynieria.",
     "aboutTitle": "O firmie Frenocar",
-    "aboutP1": "Firma rodzinna Frenocar działa na rynku słowackim od 1996 roku. Powstała jako odpowiedź na brak producenta materiałów hamulcowych w naszym kraju. Stopniowo rozszerzyliśmy działalność o obróbkę CNC, produkcję narzędzi, metalurgię proszkową i rozwój własnego silnika elektrycznego FrenoFulx.",
+    "aboutP1": "Firma rodzinna Frenocar działa na rynku słowackim od 1996 roku. Powstała jako odpowiedź na brak producenta materiałów hamulcowych w naszym kraju. Stopniowo rozszerzyliśmy działalność o obróbkę CNC, produkcję narzędzi, metalurgię proszkową i rozwój własnego silnika elektrycznego FrenoFlux.",
     "aboutP2": "Naszym celem jest oferowanie wysokiej jakości produktów w konkurencyjnych cenach, śledzenie potrzeb klientów i utrzymywanie dobrych relacji biznesowych."
   },
   "footer": {
@@ -140,7 +140,7 @@
     "ctaTitle": "Potrzebujesz obróbki metali na zamówienie?",
     "ctaDescription": "Od produkcji jednostkowej po małe serie. Obróbka CNC, cięcie plazmowe, produkcja narzędzi — skontaktuj się z nami ze swoim zapytaniem."
   },
-  "frenofulx": {
+  "frenoflux": {
     "metaTitle": "FrenoFlux – Silnik elektryczny o strumieniu osiowym",
     "metaDescription": "FrenoFlux — silnik elektryczny o strumieniu osiowym zaprojektowany i produkowany przez Frenocar. Kompaktowy, wydajny, wysokiej jakości inżynieria.",
     "heroTitle": "FrenoFlux",

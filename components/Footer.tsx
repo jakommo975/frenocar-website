@@ -6,7 +6,7 @@ const navKeys = [
   { href: "/trecie-materialy" as const, key: "trecieMaterialy" },
   { href: "/nahradne-diely" as const, key: "nahradneDiely" },
   { href: "/kovovyroba" as const, key: "kovovyroba" },
-  { href: "/frenofulx" as const, key: "frenofulx" },
+  { href: "/frenoflux" as const, key: "frenoflux" },
   { href: "/kontakt" as const, key: "kontakt" },
 ];
 

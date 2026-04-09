@@ -142,14 +142,14 @@ function HomePageContent() {
             </div>
           </Link>
 
-          {/* FrenoFulx */}
-          <Link href="/frenofulx" className="group">
+          {/* FrenoFlux */}
+          <Link href="/frenoflux" className="group">
             <div className="rounded-brand-card overflow-hidden bg-brand-red text-brand-white p-6 md:p-8 h-full transition-transform group-hover:scale-[1.02]">
               <h3 className="font-heading text-xl md:text-2xl font-bold mb-2">
-                {t("frenofulxTitle")}
+                {t("frenofluxTitle")}
               </h3>
               <p className="text-sm text-brand-white/80 leading-relaxed">
-                {t("frenofulxDescription")}
+                {t("frenofluxDescription")}
               </p>
             </div>
           </Link>

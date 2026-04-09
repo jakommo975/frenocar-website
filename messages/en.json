@@ -7,14 +7,14 @@
     "trecieMaterialy": "Friction Materials",
     "nahradneDiely": "Spare Parts Manufacturing",
     "kovovyroba": "Metal Fabrication",
-    "frenofulx": "FrenoFulx",
+    "frenoflux": "FrenoFlux",
     "kontakt": "Contact",
     "openMenu": "Open menu",
     "closeMenu": "Close menu"
   },
   "home": {
     "heroTitle": "Manufacturing & Renovation of Friction Materials",
-    "heroDescription": "A family company on the Slovak market since 1996. Brake and clutch materials, spare parts manufacturing, CNC metalworking and the proprietary FrenoFulx electric motor.",
+    "heroDescription": "A family company on the Slovak market since 1996. Brake and clutch materials, spare parts manufacturing, CNC metalworking and the proprietary FrenoFlux electric motor.",
     "ctaContact": "Contact Us",
     "ctaServices": "Our Services",
     "heroImageAlt": "Clutch material manufactured by Frenocar",
@@ -31,10 +31,10 @@
     "metalTitle": "Metal Fabrication",
     "metalDescription": "CNC machining, plasma cutting, tool manufacturing and powder metallurgy.",
     "metalImageAlt": "CNC milling - Frenocar metalworking",
-    "frenofulxTitle": "FrenoFulx",
-    "frenofulxDescription": "Axial flux electric motor designed and manufactured in-house. Compact, efficient, quality engineering.",
+    "frenofluxTitle": "FrenoFlux",
+    "frenofluxDescription": "Axial flux electric motor designed and manufactured in-house. Compact, efficient, quality engineering.",
     "aboutTitle": "About Frenocar",
-    "aboutP1": "The family company Frenocar has been operating on the Slovak market since 1996. It was established in response to the absence of a brake material producer in our country. We gradually expanded our activities to include CNC machining, tool manufacturing, powder metallurgy and the development of our own FrenoFulx electric motor.",
+    "aboutP1": "The family company Frenocar has been operating on the Slovak market since 1996. It was established in response to the absence of a brake material producer in our country. We gradually expanded our activities to include CNC machining, tool manufacturing, powder metallurgy and the development of our own FrenoFlux electric motor.",
     "aboutP2": "Our goal is to offer quality products at competitive prices, follow customer needs and maintain good business relationships."
   },
   "footer": {
@@ -140,7 +140,7 @@
     "ctaTitle": "Need custom metal fabrication?",
     "ctaDescription": "From single pieces to small series. CNC machining, plasma cutting, tool manufacturing — contact us with your request."
   },
-  "frenofulx": {
+  "frenoflux": {
     "metaTitle": "FrenoFlux – Axial Flux Electric Motor",
     "metaDescription": "FrenoFlux — axial flux electric motor designed and manufactured by Frenocar. Compact, efficient, quality engineering.",
     "heroTitle": "FrenoFlux",
